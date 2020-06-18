@@ -1,12 +1,12 @@
-# _{Ty Huard's Portfolio}_
+# _Ty Huard's Portfolio_
 
-#### _{Portfolio of completed projects for the Intro to Coding Course at Epicodus}, {June, 18th 2020}_
+#### _Portfolio of completed projects for the Intro to Coding Course at Epicodus, June, 18th 2020_
 
-#### By _**{Ty Huard, Ester Tataje, Chloe Hellberge}**_
+#### By _**Ty Huard, Ester Tataje, Chloe Hellberge**_
 
 ## Description
 
-_{Four different projects learning Git and Html make up and formatting. Html webpage development elements and proper format for indentions were covered as well as cascading and inheritance.}_
+_Four different projects learning Git and Html make up and formatting. Html webpage development elements and proper format for indentions were covered as well as cascading and inheritance._
 
 ## Setup/Installation Requirements
 
@@ -15,18 +15,18 @@ _{Four different projects learning Git and Html make up and formatting. Html web
 
 ## Known Bugs
 
-_{No known bugs at this publication date.}_
+_No known bugs at this publication date._
 
 ## Support and contact details
 
-_{Please contact Ty Huard by email at thuard06@gmail.com if you have any suggestions or questions.}_
+_Please contact Ty Huard by email at thuard06@gmail.com if you have any suggestions or questions._
 
 ## Technologies Used
 
-_{*HTMl *CSS}_
+_*HTMl *CSS_
 
 ### License
 
-*{This project uses the following license MIT}*
+*This project uses the following license MIT*
 
-Copyright (c) 2020 **_{Ty Huard, Ester Tataje, Chloe Hellberge}_**
+Copyright (c) 2020 **_Ty Huard, Ester Tataje, Chloe Hellberge_**
